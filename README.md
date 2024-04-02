@@ -1,4 +1,4 @@
-<h1>OIBSIP</h1> - <h2>Oasis Infobyte Intern Program</h2>
+<h1>DEVTERN - WEB DEVELOPMENT INTERNSHIP</h1> - <h2> Internships tasks</h2>
 
 <h4>Task1 - Login Athentication </h4>
 <a href="https://github.com/Sanjaivels/sanjay-v.devtern/tree/main/Task-01">link</a>
